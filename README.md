@@ -125,6 +125,6 @@ This portfolio is targeted toward roles in:
 **Prapti Borkar**
 B.Tech Metallurgical & Materials Engineering
 Indian Institute of Technology, Ropar
-GitHub: github.com/PraptiBorkar
-LinkedIn: linkedin.com/in/prapti-borkar-ab5309329
+GitHub: [github.com/PraptiBorkar](https://github.com/PraptiBorkar)
+LinkedIn: [linkedin.com/in/prapti-borkar-ab5309329](https://www.linkedin.com/in/prapti-borkar-ab5309329/)
 Email: 2024mmb1419@iitrpr.ac.in
